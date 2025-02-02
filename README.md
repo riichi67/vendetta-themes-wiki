@@ -4,12 +4,13 @@
 
 > This page introduces you to theming Vendetta. This documentation is not official and may contain mistakes.
 
-> Discord always adds something new to their app, so you can always check colors list here: [https://github.com/nexpid/VendettaThemeUtil](https://github.com/nexpid/VendettaThemeUtil)
+> Discord always adds something new to their app, so you can always check colors list [here](https://github.com/nexpid/Themelings).
 
-> This wiki also automatically syncs with its own Github repo, so if you have any changes - feel free to PR or open issues about those here: [https://github.com/riichi67/wiki](https://github.com/riichi67/wiki)
+> This wiki also automatically syncs with its own Github repo, so if you have any changes - feel free to PR or open issues about those [here](https://github.com/vita-rw/wiki)!
 
-Discord server: [https://discord.gg/vendetta-mod](https://discord.gg/vendetta-mod)\
-Github organization: [https://github.com/vendetta-mod](https://github.com/riichi67/wiki)
+Here are the [Discord server](https://discord.gg/vendetta-mod) and the [Github org](https://github.com/vendetta-mod) of Vendetta, where it all started. Now Vendetta is practically dead.
+
+These docs also apply for [Bunny](https://github.com/bunny-mod), [Revenge](https://github.com/revenge-mod) and anything else Vendetta-based, if it supports spec (Vendetta's theme format).
 
 ### thanks to:
 
